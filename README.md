@@ -5,16 +5,16 @@ I made the logo and front-end myself. Keep in mind this was all done within 10 W
 
 This is my search feature!
 
-![caption](FlabFlix Search.gif)
+![caption](FlabFlix-Search.gif)
 
 You can add ratings and view ratings as well!
 
-![caption](Flabflix Rating.gif)
+![caption](Flabflix-Rating.gif)
 
 Paypal sandbox purchases when you add movies to your cart!
 
-![caption](Flabflix Rating.gif)
+![caption](Flabflix-Rating.gif)
 
 After the paypal sandbox purchase you can view your history!
 
-![caption](FlabFlix Order History.gif)
+![caption](FlabFlix-Order-History.gif)
