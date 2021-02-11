@@ -13,7 +13,7 @@ You can add ratings and view ratings as well!
 
 Paypal sandbox purchases when you add movies to your cart!
 
-![caption](Flabflix-Rating.gif)
+![caption](FlabFlix-Paypal-sandbox-purchase.gif)
 
 After the paypal sandbox purchase you can view your history!
 
